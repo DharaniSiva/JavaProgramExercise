@@ -1,2 +1,0 @@
-# JavaProgramNotes
-JAVA Program Notes
